@@ -223,6 +223,3 @@ main()
 
 
 
-# cells should be equal to spots. cells must be stored in 2-D grid. cell should have method to set color
-# based on situation. event.keyboard type should be inside for event in pygame.event.get() loop.
-
