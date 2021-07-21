@@ -125,7 +125,6 @@ def get_spot_pos(pos, width_of_one_cell): #function for finding in which cell we
 
 	return row, col
 
-# warning : stupid code ahead
 def bfs(start_cell, end_cell, spots):
 	q = deque()
 	q.append(start_cell)
